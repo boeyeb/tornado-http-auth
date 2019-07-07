@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fboeyeb%2Ftornado-http-auth.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fboeyeb%2Ftornado-http-auth?ref=badge_shield)
+
 tornado-http-auth
 =================
 
@@ -76,3 +78,6 @@ This project is released under the terms of the `Apache License, Version 2.0`_.
 .. _cred: https://twistedmatrix.com/documents/15.4.0/core/howto/cred.html
 .. _Tornado: http://www.tornadoweb.org/en/stable/
 .. _`Apache License, Version 2.0`: https://raw.github.com/gvalkov/tornado-http-auth/master/LICENSE
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fboeyeb%2Ftornado-http-auth.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fboeyeb%2Ftornado-http-auth?ref=badge_large)
